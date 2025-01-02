@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 🔭 I’m currently working on anything<br>👯 I’m looking to collaborate on anyone<br>🌱 I’m currently learning everything<br>💬 Ask me about anything<br>
 
@@ -23,5 +24,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Jamexxsxs&icon=5&color=0)](https://visitcount.itsvg.in)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
